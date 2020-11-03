@@ -1,6 +1,7 @@
 ## Hi~ Here is oldwong👋 
 
 ### 📝Works
+- 通过SpringBoot+Thymeleaf+JPA,数据库用MySQL，前端采用前端:Semantic UI，设计的个人博客[BlogSpringBoot]
 
 - 通过MyBatis+Spring+SpringMVC，前端显示采用了BootStrap+JS，设计的一个秒杀系统。[SecKillDesign](https://github.com/oldwang77/SecKillDesign) 
 

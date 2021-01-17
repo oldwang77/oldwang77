@@ -1,6 +1,8 @@
 ## Hi~ Here is oldwong👋 
 
 ### 📝Works
+-- Java实现SSO单点登录
+
 - Springcloud项目，微服务快速构建
 
 - Springboot的干净的项目，整合好了MyBatis，方便下次快速框架构建[Springboot-template](https://github.com/oldwang77/springboot-template)

@@ -1,7 +1,7 @@
 ## Hi~ Here is oldwong👋 
 
 ### 📝Works
--- Java实现SSO单点登录
+- Java实现SSO单点登录
 
 - Springcloud项目，微服务快速构建
 

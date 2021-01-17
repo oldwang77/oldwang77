@@ -1,9 +1,11 @@
 ## Hi~ Here is oldwong👋 
 
 ### 📝Works
-- Java实现SSO单点登录
+- Java实现分布式令牌机制(plan)
 
-- Springcloud项目，微服务快速构建
+- Java实现SSO单点登录(plan)
+
+- Springcloud项目，微服务快速构建(now)
 
 - Springboot的干净的项目，整合好了MyBatis，方便下次快速框架构建[Springboot-template](https://github.com/oldwang77/springboot-template)
 

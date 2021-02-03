@@ -5,8 +5,8 @@
 
 - Java实现SSO单点登录(plan)
 
-- 通过Java操作Excel工具包，JXL读取Excel中的一列，对目录文件下的所有excel中的sheet进行匹配，当匹配成功情况下，取出所有匹配行放入当前excel的sheet中[JxlDealExcel
-](https://github.com/oldwang77/JxlDealExcel)
+- 通过Java操作Excel工具包，JXL读取Excel中的一列，对目录文件下的所有excel中的sheet进行匹配，当匹配成功情况下，取出所有匹配行放入当前excel的sheet中[jxl_excel
+](https://github.com/oldwang77/jxl_excel)
 
 - Springcloud项目，微服务快速构建(now)
 

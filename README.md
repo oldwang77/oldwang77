@@ -3,7 +3,7 @@
 ### 📝Works
 - Java实现分布式令牌机制(plan)
 
-- 国网江苏群租房预测应用方案数据展现部分的开发，通过对接Sophon群租房预测的结果，在前端进行分页显示
+- 国网江苏群租房预测应用方案数据展现部分的开发，通过对接Sophon群租房预测的结果[GroupHousePrediction](https://github.com/oldwang77/GroupHousePrediction)
 
 - 通过Java操作Excel工具包，JXL读取Excel中的一列，对目录文件下的所有excel中的sheet进行匹配，当匹配成功情况下，取出所有匹配行放入当前excel的sheet中[jxl_excel
 ](https://github.com/oldwang77/jxl_excel)

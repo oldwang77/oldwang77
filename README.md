@@ -1,6 +1,8 @@
 ## Hi~ Here is oldwong👋 
 
 ### 📝Works
+- 基于guns+dubbo+zookeeper的微服务应用程序的开发(now)
+
 - Java实现分布式令牌机制(plan)
 
 - 国网江苏群租房预测应用方案数据展现部分的开发，通过对接Sophon群租房预测的结果[GroupHousePrediction](https://github.com/oldwang77/GroupHousePrediction)

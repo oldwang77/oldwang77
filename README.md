@@ -1,6 +1,8 @@
 ## Hi~ Here is oldwong👋 
 
 ### 📝Works
+- 中间件RabbitMQ学习
+
 - 基于guns+dubbo+zookeeper的微服务应用程序的开发(now)
 
 - Java实现分布式令牌机制(plan)

@@ -1,6 +1,8 @@
 ## Hi~ Here is oldwong👋 
 
 ### 📝Works
+- 基于SpringBoot、Mybatis、MySQL、Redis、Kafka、ElasticSearch开发的社区论坛系统
+
 - 消息队列Kafka学习
 
 - 消息队列RabbitMQ学习

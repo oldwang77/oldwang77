@@ -29,7 +29,7 @@
 
 ### ⚡Interests
 
-- 图像分割（Image segmentation）
+- 图像分割，基于弱监督深度学习的图像分割方法
 
-- 应用程序开发（SoftWare Development）
+- 长跑，曾获得校运动会1500米铜牌🥉
 

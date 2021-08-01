@@ -21,11 +21,13 @@
 - 仿照京东商城写的小东商城，实现了前端界面，登陆，头像上传等功能。[XdShoppingMail](https://github.com/oldwang77/xd-parent) 
 
 ### ⭐️Skills
-- 消息队列Kafka学习，消息队列RabbitMQ学习
+- 深度学习：Pytorch学习
 
-- SpringBoot+SpringMVC+MyBatis+Spring+SpringCloud学习
+- 消息队列：消息队列Kafka学习，消息队列RabbitMQ学习
 
-- MySQL+Redis学习
+- 框架：SpringBoot+SpringMVC+MyBatis+Spring+SpringCloud学习
+
+- 数据库：MySQL+Redis学习
 
 - 基于guns+dubbo+zookeeper的微服务应用程序的开发
 

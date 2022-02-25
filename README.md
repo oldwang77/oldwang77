@@ -21,7 +21,7 @@
 - 仿照京东商城写的小东商城，实现了前端界面，登陆，头像上传等功能。[XdShoppingMail](https://github.com/oldwang77/xd-parent) 
 
 ### ⭐️Skills
-- 前端：vue（studying）
+- 前端：vue
 
 - 深度学习：Pytorch
 

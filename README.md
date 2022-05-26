@@ -20,19 +20,6 @@
 
 - 仿照京东商城写的小东商城，实现了前端界面，登陆，头像上传等功能。[XdShoppingMail](https://github.com/oldwang77/xd-parent) 
 
-### ⭐️Skills
-- 前端：vue
-
-- 深度学习：Pytorch
-
-- 中间件：消息队列Kafka，消息队列RabbitMQ、ElasticSearch
-
-- 框架：SpringBoot+SpringMVC+MyBatis+Spring+SpringCloud
-
-- 数据库：MySQL+Redis
-
-- 基于guns+dubbo+zookeeper的微服务应用程序的开发
-
 ### ⚡Interests
 
 - 图像分割，基于弱监督深度学习的图像分割方法

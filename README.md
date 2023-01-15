@@ -5,12 +5,8 @@
 
 - 基于SpringBoot、Mybatis、MySQL、Redis、Kafka、ElasticSearch开发的社区论坛系统
 
-- 群租房预测应用方案数据展现部分的开发，通过对接Sophon群租房预测的结果[GroupHousePrediction](https://github.com/oldwang77/GroupHousePrediction)
+- 群租房预测应用方案数据展现部分的开发，通过对接Sophon群租房预测的结果 [隐私保密]
 
-- 通过MyBatis+Spring+SpringMVC，前端显示采用了BootStrap+JS，设计的一个秒杀系统。[SecKillDesign](https://github.com/oldwang77/SecKillDesign) 
-
-- 整合SSM，实现了图书馆的增删改查。[Bookmanagement](https://github.com/oldwang77/BookManagement)
-
-- 仿照京东商城写的小东商城 [XdShoppingMail](https://github.com/oldwang77/xd-parent) 
+- 一个简单的秒杀系统练手。[SecKillDesign](https://github.com/oldwang77/SecKillDesign) 
 
 
